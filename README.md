@@ -1,5 +1,6 @@
-# HTTP under 100 lines of code!
-A simple HTTP webserver made entirely with the standard library in rust. Can deliver std streams across localhost.
+A simple HTTP webserver made entirely with the standard library in rust under 100 lines of code. Can deliver std streams across localhost.
+
+
 
 To install you need rustc and cargo, goto: https://rustup.rs/ to download these.
 
