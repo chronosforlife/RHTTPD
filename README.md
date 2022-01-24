@@ -2,9 +2,9 @@ A simple HTTP webserver made entirely with the standard library in rust under 10
 
 
 
-To install you need rustc and cargo, goto: https://rustup.rs/ to download these.
+To install you need rustc and cargo, goto: https://rustup.rs/ to download 
 
-Open up a shell.
+Open a shell
 
 git clone this repo
 
